@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nature-sync-ai/static/css/main.3f987577.css",
-    "main.js": "/nature-sync-ai/static/js/main.81a6cc3f.js",
+    "main.js": "/nature-sync-ai/static/js/main.9fb865e1.js",
     "static/media/symbol.png": "/nature-sync-ai/static/media/symbol.bdf4f0d701285ad12dea.png",
     "index.html": "/nature-sync-ai/index.html",
     "main.3f987577.css.map": "/nature-sync-ai/static/css/main.3f987577.css.map",
-    "main.81a6cc3f.js.map": "/nature-sync-ai/static/js/main.81a6cc3f.js.map"
+    "main.9fb865e1.js.map": "/nature-sync-ai/static/js/main.9fb865e1.js.map"
   },
   "entrypoints": [
     "static/css/main.3f987577.css",
-    "static/js/main.81a6cc3f.js"
+    "static/js/main.9fb865e1.js"
   ]
 }
