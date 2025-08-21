@@ -13,7 +13,7 @@ const Questions = () => {
                         {/* Card */}
                         <div className="w-full rounded-2xl shadow-xl bg-gray-800 pt-16 pb-8 px-6 flex flex-col items-center">
                             <p className="text-gray-300 text-center mb-6 text-sm">
-                                Sample Question
+                                Sample Question 123
                             </p>
                             <div className="w-full flex flex-col gap-3">
                                 <button className="w-full py-2 rounded-full bg-gradient-to-r from-yellow-400 to-orange-400 text-white font-semibold shadow hover:from-yellow-500 hover:to-orange-500 transition">Share</button>
