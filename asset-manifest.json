@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nature-sync-ai/static/css/main.3f987577.css",
-    "main.js": "/nature-sync-ai/static/js/main.9fb865e1.js",
-    "static/media/symbol.png": "/nature-sync-ai/static/media/symbol.bdf4f0d701285ad12dea.png",
-    "index.html": "/nature-sync-ai/index.html",
-    "main.3f987577.css.map": "/nature-sync-ai/static/css/main.3f987577.css.map",
-    "main.9fb865e1.js.map": "/nature-sync-ai/static/js/main.9fb865e1.js.map"
+    "main.css": "/nature-sync-ai/nature-sync-frontend/static/css/main.3f987577.css",
+    "main.js": "/nature-sync-ai/nature-sync-frontend/static/js/main.1751ece3.js",
+    "static/media/symbol.png": "/nature-sync-ai/nature-sync-frontend/static/media/symbol.bdf4f0d701285ad12dea.png",
+    "index.html": "/nature-sync-ai/nature-sync-frontend/index.html",
+    "main.3f987577.css.map": "/nature-sync-ai/nature-sync-frontend/static/css/main.3f987577.css.map",
+    "main.1751ece3.js.map": "/nature-sync-ai/nature-sync-frontend/static/js/main.1751ece3.js.map"
   },
   "entrypoints": [
     "static/css/main.3f987577.css",
-    "static/js/main.9fb865e1.js"
+    "static/js/main.1751ece3.js"
   ]
 }
